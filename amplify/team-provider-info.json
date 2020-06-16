@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-buildonserverless-dev-223124-authRole",
+            "UnauthRoleArn": "arn:aws:iam::526532361299:role/amplify-buildonserverless-dev-223124-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::526532361299:role/amplify-buildonserverless-dev-223124-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-buildonserverless-dev-223124-deployment",
+            "UnauthRoleName": "amplify-buildonserverless-dev-223124-unauthRole",
+            "StackName": "amplify-buildonserverless-dev-223124",
+            "StackId": "arn:aws:cloudformation:us-east-1:526532361299:stack/amplify-buildonserverless-dev-223124/9287ec40-af4f-11ea-af82-127e9735111e",
+            "AmplifyAppId": "dr7g8n53n9v3r"
+        },
+        "categories": {
+            "function": {
+                "buildonserverlessauthCustomMessage": {
+                    "REDIRECTURL": "",
+                    "EMAILSUBJECT": "",
+                    "EMAILMESSAGE": ""
+                }
+            },
+            "auth": {
+                "buildonserverlessauth": {}
+            }
+        }
+    }
+}

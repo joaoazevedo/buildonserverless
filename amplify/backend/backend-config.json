@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"buildonserverlessauth": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
