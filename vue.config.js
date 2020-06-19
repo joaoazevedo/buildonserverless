@@ -8,5 +8,5 @@ module.exports = {
   configureWebpack: {
     devtool: "source-map"
   },
-  transpileDependencies: [/[\\\/]node_modules[\\\/]quasar-framework[\\\/]/]
+  transpileDependencies: [/[\\/]node_modules[\\/]quasar-framework[\\/]/]
 };
